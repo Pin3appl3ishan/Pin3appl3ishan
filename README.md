@@ -54,62 +54,6 @@ My experience spans **backend engineering, full-stack development, AI/ML applica
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 📌 [Hisab](https://github.com/ishanshrestha14/hisab)
-### Open-Source Invoicing for Nepali Freelancers
-
-**Tech:** `TypeScript` `Turborepo` `Hono` `Prisma` `PostgreSQL` `Better Auth`
-
-- Built a type-safe monorepo architecture using shared Zod schemas
-- Implemented idempotent invoice creation and audit logging
-- Docker-ready, self-hostable, MIT licensed
-
----
-
-### 📌 [Blood Glucose Analyzer](https://github.com/ishanshrestha14/blood-glucose-analyzer)
-### AI-Powered Healthcare Thesis Project
-
-**Tech:** `Python` `Flask` `React` `PaddleOCR` `scikit-learn` `SHAP`
-
-- Achieved **92% OCR accuracy** on noisy Nepali lab reports
-- Developed Random Forest classifier with **74% accuracy** and **80% ROC-AUC**
-- Added SHAP explainability to improve clinical interpretability
-- Built REST API with 18 documented endpoints and multilingual support
-
----
-
-### 📌 [U&I](https://github.com/ishanshrestha14/u-and-i)
-### Collaborative Whiteboard + Code Editor
-
-**Tech:** `React 19` `TypeScript` `Excalidraw` `CodeMirror 6` `Supabase` `Zustand`
-
-- Real-time collaborative canvas with embedded code editors
-- Dual persistence with localStorage and PostgreSQL (RLS)
-- Achieved **94/100 Lighthouse Performance Score**
-
----
-
-### 📌 [iLike](https://github.com/ishanshrestha14/ilike)
-### Cross-Platform Dating Application
-
-**Tech:** `Flutter` `MERN` `Socket.io` `Hive`
-
-- Real-time chat with offline-first architecture
-- Implemented JWT authentication with refresh token rotation
-- Supported **500+ beta users** during testing
-
----
-
-<p align="center">
-  <a href="https://github.com/ishanshrestha14?tab=repositories">
-    View All Projects →
-  </a>
-</p>
-
----
 
 ## 💼 Professional Experience
 
